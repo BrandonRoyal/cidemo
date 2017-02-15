@@ -97,7 +97,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/29/2017 22:39:05</publishTime>
     </File>
     <File Include="bin/WebApp.dll">
-      <publishTime>02/10/2017 11:46:23</publishTime>
+      <publishTime>02/15/2017 10:10:11</publishTime>
     </File>
     <File Include="css/freelancer.css">
       <publishTime>08/19/2016 14:37:48</publishTime>
@@ -319,7 +319,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/19/2016 14:37:48</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>02/15/2017 08:57:17</publishTime>
+      <publishTime>02/15/2017 10:10:00</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>02/05/2017 18:08:59</publishTime>
